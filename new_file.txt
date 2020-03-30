@@ -7,3 +7,5 @@ commit을 통해 branch2를 초기의 branch1과 같은 상태로 만든 후에
 다시 진행합니다.
 
 branch2에 commit을 한 상태
+master branch에 변화가 없어서 다시 한 번 rebase를 하기 위해
+새롭게 branch2 파일을 수정하여 commit합니다
