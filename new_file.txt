@@ -5,3 +5,5 @@ new file
 branch 2개를 동시에 만드는 것을 깜박해서
 commit을 통해 branch2를 초기의 branch1과 같은 상태로 만든 후에
 다시 진행합니다.
+
+branch2에 commit을 한 상태
